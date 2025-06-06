@@ -16,8 +16,8 @@ Once we obtain convergence in the policy evaluation then implement policy improv
 </br>
 
 ## POLICY IMPROVEMENT FUNCTION
-#### Name: S JAIGANESH
-#### Register Number: 212222240037
+#### Name: KARTHIKEYAN R
+#### Register Number: 212222240046
 ```python
 def policy_improvement(V, P, gamma=1.0):
     Q = np.zeros((len(P), len(P[0])), dtype=np.float64)
